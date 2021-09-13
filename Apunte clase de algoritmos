@@ -1,1 +1,80 @@
+EJEMPLOS DE ALGORITMOS
+ 2.- Leer dos números cualesquiera y mostrarlos
+ANALISIS
+ENTRADA: 2 números cualquiera
+RESTRICCIONES: Que sean números y que sean dos
+SALIDA: 2 números cualquiera
+ 
+DISEÑO
+1.- Inicio
+2.- Tener dos números cualquiera
+3.- Solicitar dos números cualquiera
+4.- Leer los dos números cualquiera
+5.- Mostrar los dos números cualquiera leído
+6.- Fin
+ 
+2.- Leer un número cualquiera mayor a 4 y mostrarlo
+ANALISIS
+ENTRADA: un número cualquiera
+RESTRICIONES: un número cualquiera mayor a 4
+SALIDA: un número cualquiera mayor a 4
+ 
+DISEÑO
+1.       Inicio
+2.       Tener un número cualquiera
+3.       Solicitar un número mayor a 4
+4.       Leer el número
+5.       ¿Verificar que el número leído sea mayor a 4?
+Si, paso 6
+No, ir al paso 3
+6.       Mostrar el número leído
+7.       Fin
+ 
+VERIFICACIÓN
+ 
+numero
+salida
+0.0
+Solicitar un número mayor a 4
+3
+Solicitar un número mayor a 4
+12.0
+12.0
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.- Leer dos números cualquiera que estén entre 1 y 10, sumarlos y mostrar el resultado
+ANALISIS
+ENTRADA: dos números cualquiera
+RESTRICCIONES: Que los números leídos estén entre 1 y 10, que sean dos números
+SALIDA. un número cualesquiera
+ 
+DISEÑO
+1.       Inicio
+2.       Tener dos número cualquiera
+3.       Solicitar dos número entre 1 y 10
+4.       Leer los dos números
+5.       ¿Verificar que los números leídos estén entre 1 y 10?
+Si, paso 6
+No, ir al paso 3
+6.       Sumar los dos números leídos
+7.       Mostrar el resultado de la suma
+8.       Fin
+ 
+DISEÑO
+1.       Inicio
+2.       Tener dos número cualquiera, utilizando las variables a,b
+3.       Solicitar dos número entre 1 y 10
+4.       Leer los dos números y asignar el primero a la variable a y el segundo a la variable b
+5.       ¿Verificar que el contenido de las variables estén entre 1 y 10?
+Si, paso 6
+No, ir al paso 3
+6.       Sumar los dos números leídos y asignar el resultado a la variable c
+7.       Mostrar el contendió de la variable c
+8.       Fin
 
