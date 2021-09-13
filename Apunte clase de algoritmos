@@ -42,12 +42,6 @@ Solicitar un número mayor a 4
 12.0
 
  
- 
- 
- 
- 
- 
- 
 3.- Leer dos números cualquiera que estén entre 1 y 10, sumarlos y mostrar el resultado
 ANALISIS
 ENTRADA: dos números cualquiera
@@ -77,4 +71,31 @@ No, ir al paso 3
 6.       Sumar los dos números leídos y asignar el resultado a la variable c
 7.       Mostrar el contendió de la variable c
 8.       Fin
+
+
+DISEÑO
+1.	Inicio
+2.	VAR: a,b,c: REALES
+3.	Mensaje “Ingresa dos números entre 1 y 10”
+4.	Leer a,b
+5.	Si (a>=1 AND a<=10) AND (b>=1 AND b<=10)
+Si, paso 6
+No, ir al paso 3
+6.	Ca+b
+7.	Mostrar c
+8.	Fin
+
+
+
+  := ASIGNACIÓN
+=  COMPARACIÓN
+<=  MENOR O IGUAL
+>= MAYOR O IGUAL
+<> DIFERENTE
+AND Y LOGICO
+OR O LÓGICO
+
+
+A=B
+AB   A:=B
 
